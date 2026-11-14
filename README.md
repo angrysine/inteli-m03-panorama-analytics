@@ -1,3 +1,31 @@
+# Panorama Analytics
+
+> Portfólio de [Alberto da Rocha Miranda](https://github.com/angrysine) · Inteli · Módulo 3 · 2022
+
+## O que foi desenvolvido
+
+Modelos preditivos para apoiar o relacionamento do Banco PAN com seus clientes, analisando sinais de engajamento, possíveis atritos e potenciais novos clientes.
+
+**Parceiro / contexto:** Banco PAN.
+
+## Tecnologias e conceitos
+
+Python · Jupyter · Machine learning.
+
+## Participação e créditos
+
+Participei deste projeto como integrante da equipe no Inteli — Instituto de Tecnologia e Liderança. A solução é um trabalho coletivo; este fork organiza sua apresentação no meu portfólio e preserva os autores, créditos, licenças e materiais originais.
+
+[Repositório de origem](https://github.com/2022M3T1-Inteli/Panorama-Analytics) · [Portfólio](https://angrysine.github.io/)
+
+## Documentação e execução
+
+As instruções técnicas e os materiais da equipe foram preservados abaixo e nas pastas do repositório. Esta atualização organiza a apresentação do projeto acadêmico e não representa uma nova validação de execução.
+
+---
+
+## Documentação original da equipe
+
 # Inteli - Instituto de Tecnologia e Liderança 
 
 # Banco Pan
